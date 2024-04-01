@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ItemGood
+  - ItemBad
+  - DZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Fondo
+  - Water
+  - UI
+  - Player
+  - Enemigo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3275669367
+    locked: 0
+  - name: Floor
+    uniqueID: 2585571203
+    locked: 0
+  - name: Player
+    uniqueID: 803929545
+    locked: 0
+  - name: Enemy
+    uniqueID: 2272192145
+    locked: 0
+  - name: Items
+    uniqueID: 1000393607
+    locked: 0
